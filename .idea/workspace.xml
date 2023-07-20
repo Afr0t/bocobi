@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f702d3d-8160-4108-af35-724346583f61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/bocobi2BackendByFSML-main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -20,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.gitattributes" beforeDir="false" />
@@ -27,25 +29,40 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/AccessingDataJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/AccessingDataJpaApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/WebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/WebAppInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/AbonnementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/AbonnementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/CompteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/CompteController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/ExamenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/ExamenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/PatientController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/UtilisateurController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/controller/UtilisateurController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Abonnement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Abonnement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/CarnetElectronique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/CarnetElectronique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Compte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Examen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Facture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Facture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Fichier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Fichier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Forfait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Forfait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Inscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Inscription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Laborantin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Medecin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Medecin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Medicament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Medicament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Patient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/RendezVous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/RendezVous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Teleconsultation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Teleconsultation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Utilisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/model/Utilisateur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/AbonnementRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/AbonnementRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/ConseilRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/ConseilRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/ExamenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/ExamenRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/FactureRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/FactureRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/FichierRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/FichierRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/ForfaitRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/ForfaitRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/MedecinRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/MedecinRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/PatientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/PatientRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/RendezVousRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/RendezVousRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/TeleconsultationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/repository/TeleconsultationRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/AbonnementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/AbonnementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/CompteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/CompteService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/ExamenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/ExamenService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/FichierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/FichierService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/PatientService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/UtilisateurService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bocobi2/ehealth/service/UtilisateurService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
@@ -53,6 +70,17 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,30 +92,41 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2PYfUwESmyEaj0HhohK4FjP7ee7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bocobi2.ehealth.service" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="AccessingDataJpaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bocobi2.ehealth.AccessingDataJpaApplication" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bocobi2.ehealth.*" />
+          <option name="PATTERN" value="com.bocobi2.ehealth.webSocket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
